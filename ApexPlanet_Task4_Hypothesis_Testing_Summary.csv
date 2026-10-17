@@ -1,0 +1,11 @@
+Metric,Result
+Hypothesis,Compare average sales by gender
+Female Mean Sales,136883.21
+Male Mean Sales,141807.34
+Mean Difference (Male - Female),4924.13
+T-statistic,0.6826
+P-value,0.495
+Confidence Interval Lower,-9231.58
+Confidence Interval Upper,19079.85
+Decision,Fail to reject H0
+Business Conclusion,No statistically significant difference detected
